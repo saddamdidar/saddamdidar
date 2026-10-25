@@ -1,4 +1,4 @@
-<a href="https://ibb.co.com/GfQvTjc3"><img src="https://i.ibb.co.com/ZRz6mCW1/Github-banner-upscalled.webp" alt="Github-banner-upscalled" border="0"></a>
+<a href="https://ibb.co.com/GfQvTjc3"><img src="https://i.ibb.co.com/ZRz6mCW1/Github-banner-upscalled.webp" alt="Github-banner-upscalled" width="1620" height="520" border="0"></a>
 
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites</h3>
 
