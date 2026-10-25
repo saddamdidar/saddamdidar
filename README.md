@@ -1,8 +1,6 @@
-<a href="https://ibb.co.com/XfQ4x8DF"><img src="https://i.ibb.co.com/Myvhk6fP/Github-banner.jpg" alt="Github-banner" width="1960px" height="480px" border="0"></a>
+<a href="https://ibb.co.com/GfQvTjc3"><img src="https://i.ibb.co.com/ZRz6mCW1/Github-banner-upscalled.webp" alt="Github-banner-upscalled" border="0"></a>
 
-
-<h1 align="center">Hi 👋, I'm Md. Saddam Hossain</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddamdidar&label=Profile%20views&color=0e75b6&style=flat" alt="saddamdidar" /> </p>
 
