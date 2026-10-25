@@ -20,6 +20,9 @@
 
 - 📫 How to reach me **hkl.saddam@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/172ObQyinxhnPgPEuJZU7-cb28eZjHeTA/view?usp=sharing](https://drive.google.com/file/d/172ObQyinxhnPgPEuJZU7-cb28eZjHeTA/view?usp=sharing)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saddamh49818671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saddamh49818671" height="30" width="40" /></a>
