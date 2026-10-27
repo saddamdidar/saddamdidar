@@ -5,7 +5,7 @@
 
 -->
 
-<h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites</h3>
+<h3 align="center">Professional Web Designer, Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddamdidar&label=Profile%20views&color=0e75b6&style=flat" alt="saddamdidar" /> </p>
 
