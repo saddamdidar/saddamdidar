@@ -6,7 +6,7 @@
 
 <!-- <a href="https://ibb.co.com/jZWn9JzF"><img src="https://i.ibb.co.com/CsMRpP6F/01-Github-banner-upscalled-4.jpg" alt="01-Github-banner-upscalled-4" width="1620" height="520" border="0"></a> -->
 
-<a href="https://freeimage.host/i/n8wa6D7"><img src="https://iili.io/n8wa6D7.md.jpg" alt="n8wa6D7.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/n8wa6D7"><img src="https://iili.io/n8wa6D7.md.jpg" alt="n8wa6D7.md.jpg" width="1620" border="0"></a>
 
 
 
